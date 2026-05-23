@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+package-lock.json
+bun.lock
+yarn.lock
+
+# Build outputs
+dist/
+build/
+*.mp4
+*.webm
+*.avi
+
+# Cache
+.cache/
+*.cache
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Output directories
+output/
+video-project/
+source.md
+presentation.html
+script.md
